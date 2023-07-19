@@ -1,0 +1,20 @@
+.navbarbrand {
+  font-family: "Archivo", sans-serif;
+  font-size: 40px;
+  text-decoration: none;
+  color: #e50914;
+}
+.show {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+.fa-magnifying-glass {
+  display: block;
+  margin-left: 500px;
+}
+
+h1 {
+  font-family: "Abel", sans-serif;
+}
