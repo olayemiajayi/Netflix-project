@@ -1,18 +1,23 @@
 .navbarbrand {
-  font-family: "Archivo", sans-serif;
-  font-size: 40px;
+  display: block;
   text-decoration: none;
-  color: #e50914;
+  color: #e50815;
+  font-size: 30px;
+  margin: 5px;
 }
+
 .show {
   display: block;
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   margin: 10px;
 }
 .fa-magnifying-glass {
   display: block;
-  margin-left: 500px;
+  margin-left: 700px;
+}
+.fa-bell {
+  margin: 20px;
 }
 
 h1 {
